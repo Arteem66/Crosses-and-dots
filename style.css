@@ -129,9 +129,9 @@ body {
 
 .sneaker {
   background-color: #fff;
-  border-radius: 12px;
   height: min-content;
   transition: box-shadow .3s, transform .3s;
+  border-radius: 12px;
 }
 
 .sneaker:hover {
@@ -144,7 +144,7 @@ body {
   max-width: 364px;
 }
 
-.converse {
+.fix-border {
   border-radius: 12px;
 }
 
